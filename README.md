@@ -32,4 +32,6 @@ Then right click the server, go to add and remove options, add the project into.
 all the user and admin password are set to 123456, you cannot see it directly in database, since they are encrypted.
 you may add or delete account, logging as admin, and do it in user management menu.
 
+all the project is a java dynamic project, which you can find inside the books folder
+
 If you have any question, feel free to ask me at: zw3762@nyu.edu  ^^
